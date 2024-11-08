@@ -812,8 +812,8 @@ Transform:
   m_GameObject: {fileID: 1053515497}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.06, y: 0, z: 1.69}
-  m_LocalScale: {x: 10, y: 5, z: 10}
+  m_LocalPosition: {x: 2.06, y: 5, z: 1.69}
+  m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -833,7 +833,7 @@ MonoBehaviour:
   nodePrefab: {fileID: 8775671690344581252, guid: 4f0ab20dd28011d4480f435fca4fdd48, type: 3}
   mazeSize: {x: 10, y: 10}
   nodeSize: 10
-  opcion: 2
+  opcion: 1
 --- !u!1 &1068302620
 GameObject:
   m_ObjectHideFlags: 0
