@@ -1,2 +1,3 @@
 # GraficacionAgosto2024
-pto el que le escriba
+Juego par la materia Graficacion y Realidad virtual
+
